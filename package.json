@@ -1,0 +1,23 @@
+{
+  "name": "insta_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.1",
+    "download": "^8.0.0",
+    "formidable": "^1.2.2",
+    "jsonwebtoken": "^8.5.1",
+    "nodemailer": "^6.7.5",
+    "nodemon": "^2.0.15",
+    "sharp": "^0.30.6",
+    "tracer": "^1.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
